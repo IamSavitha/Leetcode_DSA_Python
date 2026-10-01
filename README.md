@@ -6,14 +6,13 @@ Every problem in the [LeetCode Top Interview 150](https://leetcode.com/studyplan
 |---|---|
 | **0 · Clarify** | Questions to ask and assumptions to state before coding |
 | **1 · Brute force** | The simplest correct solution, its complexity, and why it's too slow |
-| **2 · Optimize** | The bottleneck, the key insight, and the optimized code |
+| **2 · Optimize** | The bottleneck, the key insight, a why-this / why-not-that table of data structures and algorithms, and the optimized code |
 | **3 · Toy example** | A step-by-step trace of the optimized solution on a small input, plus tests that check brute force and optimized agree |
 | **4 · Wrap up** | Complexity comparison, edge cases, likely follow-ups, and a 30-second recap |
 
 Lines marked 🗣️ are an **interview script**: roughly what to say out loud at that moment.
 
-Each notebook ends with an appendix holding the original reference solution from
-[logreg-n-coffee/leetcode-top-interview-150](https://github.com/logreg-n-coffee/leetcode-top-interview-150) by Rui Hu.
+Problem list and order follow [logreg-n-coffee/leetcode-top-interview-150](https://github.com/logreg-n-coffee/leetcode-top-interview-150) by Rui Hu.
 Problems were originally published by [LeetCode](https://leetcode.com/studyplan/top-interview-150) and are reproduced for educational purposes.
 
 ## Table of Contents
