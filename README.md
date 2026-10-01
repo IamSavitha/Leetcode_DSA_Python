@@ -10,7 +10,9 @@ Every problem in the [LeetCode Top Interview 150](https://leetcode.com/studyplan
 | **3 · Toy example** | A step-by-step trace of the optimized solution on a small input, plus tests that check brute force and optimized agree |
 | **4 · Wrap up** | Complexity comparison, edge cases, likely follow-ups, and a 30-second recap |
 
-Lines marked 🗣️ are an **interview script**: roughly what to say out loud at that moment.
+Lines marked 🧠 give the plain-English intuition. Lines marked 🗣️ are an **interview script**: roughly what to say out loud at that moment.
+
+Each topic folder starts with a **`0-concepts` notebook** that teaches the data structure from scratch (operations, costs, pitfalls, patterns), so the problems feel like revision.
 
 Problem list and order follow [logreg-n-coffee/leetcode-top-interview-150](https://github.com/logreg-n-coffee/leetcode-top-interview-150) by Rui Hu.
 Problems were originally published by [LeetCode](https://leetcode.com/studyplan/top-interview-150) and are reproduced for educational purposes.
@@ -41,6 +43,8 @@ Problems were originally published by [LeetCode](https://leetcode.com/studyplan/
 22. [Multidimensional Dynamic Programming](#multidimensional-dynamic-programming)
 
 ## Array and String
+
+📘 **Start here:** [Concepts: Arrays and Strings](./1-array-string/0-concepts-array-and-string.ipynb). Every list/string operation with its cost, common traps, and the patterns used below.
 
 1. [Merge Sorted Array](./1-array-string/1-merge-sorted-array.ipynb)
 2. [Remove Element](./1-array-string/2-remove-element.ipynb)
