@@ -1,5 +1,8 @@
 # LeetCode Top Interview 150: Brute Force → Optimized (Python)
 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
+
 Every problem in the [LeetCode Top Interview 150](https://leetcode.com/studyplan/top-interview-150) study plan, written up the way you would solve it in a live interview:
 
 | Step | What's in the notebook |
